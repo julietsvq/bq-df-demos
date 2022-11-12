@@ -1,5 +1,5 @@
 {
-  "defaultSchema": "dataform-demos",
+  "defaultSchema": "dataform_demos",
   "assertionSchema": "dataform_assertions",
   "warehouse": "bigquery",
   "defaultDatabase": "jmoreirodemos-347811",
